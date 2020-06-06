@@ -4,15 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Rhode Island College Information Security Club is for interested students to learn about the vast world of information security. We host speakers from the industry, participate in capture the flag events and hold demonstrations of the different areas of information and cyber security.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Executive Board
+---------------
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Club officers are responsible for setting up club events and performing administrative functions.
+We are an officially recognized club under [RIC Student Community Government](https://www.ricscg.org/).
 
+Officers
+ - President: Adam Sebzda
+ - Vice President: Naomi Ruiz
+ - Treasurer: 
+ - Secretary: 
 
-[jekyll-organization]: https://github.com/jekyll
+Advisors
+Faculty advisors sponsor the club and help the board make decisions on how to run the club and what events to hold.
+
+Advisors
+ - Dr. Suzanne Mello-Stark
+

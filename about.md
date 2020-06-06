@@ -12,13 +12,15 @@ Executive Board
 Club officers are responsible for setting up club events and performing administrative functions.
 We are an officially recognized club under [RIC Student Community Government](https://www.ricscg.org/).
 
-Officers
+**Officers**
  - President: Adam Sebzda
  - Vice President: Naomi Ruiz
  - Treasurer: 
  - Secretary: 
 
 Advisors
+--------
+
 Faculty advisors sponsor the club and help the board make decisions on how to run the club and what events to hold.
 
 Advisors

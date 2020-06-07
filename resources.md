@@ -22,10 +22,10 @@ Website Security
 
 Cryptography
 ------------
- - [Introduction to Cryptography](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos): A series of video lectures by Christof Paar introducing cryptpgraphy concepts from basic cyphers to advanced attacks.
+ - [Introduction to Cryptography](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos): A series of video lectures by Christof Paar introducing cryptpgraphy concepts from basic ciphers to advanced attacks.
  - [Cryptographic Attacks: A Guide for the Perplexed](https://research.checkpoint.com/2019/cryptographic-attacks-a-guide-for-the-perplexed/): A basic primer on common techniques used to break encryption.
- - [Cryptopals challenges](https://cryptopals.com/): Cryptopals is a set of coding challenges created to teach the basics of how cryptography works and how it can be broken. Challanges can be completed in any programming language.
- - [Cryptohack](https://cryptohack.org/): More cryptography challanges. Similar to Cryptopals above but more advanced. Features a leaderboard to show off your skills.
+ - [Cryptopals challenges](https://cryptopals.com/): Cryptopals is a set of coding challenges created to teach the basics of how cryptography works and how it can be broken. Challenges can be completed in any programming language.
+ - [Cryptohack](https://cryptohack.org/): More cryptography challenges. Similar to Cryptopals above but more advanced. Features a leaderboard to show off your skills.
  - [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/): Matthew Green is a well-known cryptographer and professor at Johns Hopkins. His blog shares his views on modern day cryptography and helps people understand the issues around it.
 
 
@@ -41,7 +41,7 @@ Capture the Flag Challenges
 ---------------------------
  - [OverTheWire Wargames](https://overthewire.org/wargames/): OverTheWire provides a set of pentesting labs that start you off from the very beginning. A great way to start learning linux using challanges of increasing difficulty that eventually get deep into how you can bend and break linux-based systems.
  - [Hack the Box](https://www.hackthebox.eu/): Advanced pentesting challenges. Used by professionals to continue to improve their skills. Getting an account requires "hacking" your way in.
- - [SquareCTF](https://squarectf.com/): Squarespace provides yearly CTF challanges and writeups on how to solve challanges from prior years.
+ - [SquareCTF](https://squarectf.com/): Squarespace provides yearly CTF challenges and writeups on how to solve challenges from prior years.
 
 
 

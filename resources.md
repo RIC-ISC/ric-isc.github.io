@@ -35,13 +35,13 @@ Penetration Testing & Offensive Security
  - [Shodan Pentesting Guide](https://community.turgensec.com/shodan-pentesting-guide/): An overview of how to use the popular search tool Shodan to learn about devices in the Internet of Things.
  - [Introduction to Physical Penetration Tests](https://diablohorn.com/2019/07/21/introduction-to-physical-penetration-tests/): Introduction into the tools and mindset of a physical penetration tester.
  - [A Step-By-Step Linux Kernel exploitation](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html): An in-depth look at how a security researcher can develop an exploit to take advantage of known kernel vulnerability [CVE-2017-11176](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-11176).
+ - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): YouTube channel showcasing step-by-step CTF solutions, hardware security reasearch, hacking intros and more.
 
 
 Capture the Flag Challenges
 ---------------------------
  - [OverTheWire Wargames](https://overthewire.org/wargames/): OverTheWire provides a set of pentesting labs that start you off from the very beginning. A great way to start learning linux using challanges of increasing difficulty that eventually get deep into how you can bend and break linux-based systems.
+ - [PicoCTF](https://picoctf.com/): Beginner level CTF created by Carnegie Mellon University. A great introduction to the skills needed to complete higher level CTFs.
  - [Hack the Box](https://www.hackthebox.eu/): Advanced pentesting challenges. Used by professionals to continue to improve their skills. Getting an account requires "hacking" your way in.
  - [SquareCTF](https://squarectf.com/): Squarespace provides yearly CTF challenges and writeups on how to solve challenges from prior years.
-
-
 

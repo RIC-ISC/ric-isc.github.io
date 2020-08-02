@@ -23,6 +23,6 @@ Advisors
 
 Faculty advisors sponsor the club and help the board make decisions on how to run the club and what events to hold.
 
-### Advisors
+### Faculty Advisors
  - Dr. Suzanne Mello-Stark
 

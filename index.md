@@ -15,7 +15,7 @@ The 2020-2021 academic year will be the club's first full year and we're gladly 
  - Offensive security and penetration testing
  - What jobs exist in the industry and what skills you need for them
 
- Have a look at our [Resources](/resources) page to have a look through skills and topics you can learn through the club or on your own.
+ Take a look at our [Resources](/resources) page to find some of the skills and topics you can learn through the club or on your own.
 
  Check out our posts below to learn more about upcoming events and stay in touch by subscribing to our social media accounts:
  - Twitter: [@RICInfoSec](https://twitter.com/RICInfoSec)

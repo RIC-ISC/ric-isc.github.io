@@ -20,3 +20,4 @@ The 2020-2021 academic year will be the club's first full year and we're gladly 
  Check out our posts below to learn more about upcoming events and stay in touch by subscribing to our social media accounts:
  - Twitter: [@RICInfoSec](https://twitter.com/RICInfoSec)
  - Instagram: [ricinfosec](https://www.instagram.com/ricinfosec/)
+ - Discord: [Information Security Club](https://discord.gg/N63yqY2)

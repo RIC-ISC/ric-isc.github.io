@@ -16,7 +16,7 @@ We are an officially recognized club under [RIC Student Community Government](ht
  - President: Adam Sebzda
  - Vice President: Naomi Ruiz
  - Treasurer: 
- - Secretary: 
+ - Secretary: Ellis Garcia
 
 Advisors
 --------

@@ -13,8 +13,8 @@ Club officers are responsible for setting up club events and performing administ
 We are an officially recognized club under [RIC Student Community Government](https://www.ricscg.org/).
 
 ### Officers
- - President: Adam Sebzda
- - Vice President: Naomi Ruiz
+ - President: Nick Garvey
+ - Vice President: Ariel Troncoso
  - Treasurer: 
  - Secretary: Ellis Garcia
 

@@ -15,7 +15,7 @@ We are an officially recognized club under [RIC Student Community Government](ht
 ### Officers
  - President: Nick Garvey
  - Vice President: Ariel Troncoso
- - Treasurer: 
+ - Treasurer: Brailin Frias
  - Secretary: Ellis Garcia
 
 Advisors
